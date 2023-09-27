@@ -1,3 +1,8 @@
-# Forking workflow exercise with taco recipes
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
 
-Exercise description: https://coderefinery.github.io/git-collaborative/distributed/
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
